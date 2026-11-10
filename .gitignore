@@ -1,0 +1,16 @@
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Builds/
+*.csproj
+*.sln
+Tools/
+Documentation/
+.vs/
+.idea/
+.DS_Store
+*.user
+*.log
+*.zip
